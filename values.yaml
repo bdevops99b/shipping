@@ -1,2 +1,3 @@
 appName: shipping
 params: "prod.shipping.cart_endpoint prod.shipping.db_user prod.shipping.db_password"
+appPort: 8080
